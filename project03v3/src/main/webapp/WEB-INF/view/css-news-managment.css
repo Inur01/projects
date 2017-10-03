@@ -1,0 +1,30 @@
+@charset "UTF-8";
+#block1 {position:fixed; margin:10px; left:0px; top:75px; height:100px; width:20%; background:#ACACAC;}
+#block1-rus {position:fixed; margin:10px; left:0px; top:75px; height:140px; width:20%; background:#ACACAC;}
+#block1a{ margin-left:12%; margin-right:5px; margin-top:5px; height:20px; width:87%; background:orange; text-align:center; color:#FFFFFF;}
+#block1b{padding-bottom:0%; margin-left:22%; margin-top:-10px; height:55px; width:77%; background:white; text-align:center;}
+#block1b-rus{padding-bottom:0%; margin-left:22%; margin-top:-10px; height:95px; width:77%; background:white; text-align:center;}
+#ul1{padding-top:2%;}
+li {
+    list-style-type: circle;
+   }
+#newscontainer{border:2px solid #E8E8E9; margin-left:22%; margin-top:78px; height:100%; width:50%; background:white;}
+#newsHeader{position:fixed; border:2px solid black; top:0px; text-indent:40px; left:0px; height:70px; width:100%; background:white;}
+#string{border:2px solid black; width:100%;}
+#newsTitle{left:25%; width:70%;}
+#newsDate{right:80%; width:20%;}
+#brief{width:60%;}
+#actions{ width:75%;}
+#briefEditForm{width:80%; height:100px;}
+#contentEditForm{width:80%; height:100px;}
+#textarea{width:800px; height:100px;}
+.checkebox:checked
+#editBackButtoms{ width:75%;}
+#exp{border:7px solid red;}
+#diva{width:60%; height:100px;}
+#startlanguages{margin-left:50%; margin-top:-20px;}
+#languagesForAdd{margin-left:0%; margin-top:3px;}
+#str1-rus{}
+#viewButtonField{hidden}
+#checkboForHide{display:none;}
+.error{color:red;}

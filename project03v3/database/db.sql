@@ -1,0 +1,5 @@
+SELECT * FROM project03.news;
+Insert into `news` (`newsTitle`, `newsDate`, `brief`, `content`) value('HappyNewYear', '98-12-31 11:30:45','News:lladfgkjndflbnldsfm./zd.mNSgbdfnbnzf/,bv.zdnvn ,m.zdnlf zd,fbn,mzndfbnzd,fnbl/mdvmmdnvlkDvm/nzdf,bnznblk/ncbn./d,fvm,nzdfbn','Some content.......');
+Insert into `news` (`newsTitle`, `newsDate`, `brief`, `content`) value('HappyNewYear', '98-12-31 11:30:45','News:lladfgkjndflbnldsfm./zd.mNSgbdfnbnzf/,bv.zdnvn ,m.zdnlf zd,fbn,mzndfbnzd,fnbl/mdvmmdnvlkDvm/nzdf,bnznblk/ncbn./d,fvm,nzdfbn','Some content.......');
+Insert into `news` (`newsTitle`, `newsDate`, `brief`, `content`) value('HappyNewYear', '98-12-31 11:30:45','News:lladfgkjndflbnldsfm./zd.mNSgbdfnbnzf/,bv.zdnvn ,m.zdnlf zd,fbn,mzndfbnzd,fnbl/mdvmmdnvlkDvm/nzdf,bnznblk/ncbn./d,fvm,nzdfbn','Some content.......');
+Insert into `news` (`newsTitle`, `newsDate`, `brief`, `content`) value('HappyNewYear', '98-12-31 11:30:45','News:lladfgkjndflbnldsfm./zd.mNSgbdfnbnzf/,bv.zdnvn ,m.zdnlf zd,fbn,mzndfbnzd,fnbl/mdvmmdnvlkDvm/nzdf,bnznblk/ncbn./d,fvm,nzdfbn','Some content.......');
